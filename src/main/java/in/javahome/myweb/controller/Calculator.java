@@ -1,8 +1,5 @@
 package in.javahome.myweb.controller;
 
-/*
- * 
- */
 public class Calculator {
 	   public int add(int number1, int number2) 
    {
