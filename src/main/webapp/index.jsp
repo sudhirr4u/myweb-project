@@ -1,6 +1,6 @@
 <html>
 <body>
-	<img src="https://s3.amazonaws.com/cloud2learn/Idaft-Apple-wallpaper2-2560x1440.jpg" />
+	<div style="background-image:url(https://s3.amazonaws.com/cloud2learn/Idaft-Apple-wallpaper2-2560x1440.jpg);width:220px;height:140px;" />
 	<h1 style="color: green; font-size: 50px;" align="center">Congratulations!!!!!! Test-8</h1>
 	<h2 style="color: green;font-size: 30px" align="center">Application is successfully deployed</h2>
 	
