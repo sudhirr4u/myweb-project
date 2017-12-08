@@ -1,6 +1,6 @@
 <html>
-<body background="https://s3.amazonaws.com/cloud2learn/Cloud-Heroes-Branded-Slide.jpg";background-repeat:no-repeat;background-size:cover;> 
-	<h1 style="color: green; font-size: 50px;" align="left">Congratulations!!!!!! Test-8</h1>
+<body bgcolor="#333333" > 
+	<h1 style="color: green; font-size: 50px;" align="center">Congratulations!!!!!! Test-8</h1>
 	<h2 style="color: green;font-size: 30px" align="left">Application is successfully deployed</h2>
 	
 	<h2 style="color: white;font-size: 15px" align="left">Author : Sudhir Kumar Pradhan</h2>
