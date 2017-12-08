@@ -1,5 +1,5 @@
 <html>
-<body background="https://s3.amazonaws.com/cloud2learn/Cloud-Heroes-Branded-Slide.jpg); background-repeat: no-repeat; backgroung-size: cover;"
+<body background="https://s3.amazonaws.com/cloud2learn/Cloud-Heroes-Branded-Slide.jpg); background-repeat: no-repeat; backgroung-size: cover;"> 
 	<h1 style="color: green; font-size: 50px;" align="center">Congratulations!!!!!! Test-8</h1>
 	<h2 style="color: green;font-size: 30px" align="center">Application is successfully deployed</h2>
 	
