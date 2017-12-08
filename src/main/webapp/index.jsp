@@ -1,6 +1,6 @@
 <html>
 <body>
-	<div style="background-image:url(https://s3.amazonaws.com/cloud2learn/Idaft-Apple-wallpaper2-2560x1440.jpg);width:"1030";height:"730";" />
+	<div style="background-image:url(https://s3.amazonaws.com/cloud2learn/javaproject.jpg);" />
 	<h1 style="color: green; font-size: 50px;" align="center">Congratulations!!!!!! Test-8</h1>
 	<h2 style="color: green;font-size: 30px" align="center">Application is successfully deployed</h2>
 	
